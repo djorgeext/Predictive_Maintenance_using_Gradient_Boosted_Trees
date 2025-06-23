@@ -46,11 +46,4 @@ You need to have Python installed. The script uses a few Python libraries that y
         ```python
         DATASET_PATH = "/content/drive/MyDrive/Challenges_ML-DL/ai4i2020.csv" # change path if necessary
         ```
-      - Change the path to where you saved the "ai4i2020.csv" file on your computer. For example:
-        ```python
-        # For Windows
-        DATASET_PATH = "C:\\Users\\YourUser\\Documents\\ai4i2020.csv"
-
-        # For macOS or Linux
-        DATASET_PATH = "/home/youruser/documents/ai4i2020.csv"
-        ```
+      - Change the path to where you saved the "ai4i2020.csv" file on your computer.
